@@ -1,0 +1,382 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Roshn League Calendar//AR//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:العروبة — دوري روشن 2026 / 2027
+X-WR-TIMEZONE:Asia/Riyadh
+BEGIN:VEVENT
+UID:roshn-m7@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20260815T170000Z
+DTEND:20260815T190000Z
+SUMMARY:الفيحاء × العروبة — دوري روشن (ج1)
+LOCATION:ملعب الأمير سلطان بن عبدالعزيز، المجمعة
+DESCRIPTION:الجولة 1 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m15@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20260822T150000Z
+DTEND:20260822T170000Z
+SUMMARY:العروبة × الاتفاق — دوري روشن (ج2)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 2 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m23@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20260828T181500Z
+DTEND:20260828T201500Z
+SUMMARY:الاتحاد × العروبة — دوري روشن (ج3)
+LOCATION:ملعب مدينة الملك عبدالله، جدة
+DESCRIPTION:الجولة 3 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m31@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20260904T170000Z
+DTEND:20260904T190000Z
+SUMMARY:العروبة × الدرعية — دوري روشن (ج4)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 4 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m39@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20260911T151500Z
+DTEND:20260911T171500Z
+SUMMARY:الأهلي × العروبة — دوري روشن (ج5)
+LOCATION:ملعب مدينة الملك عبدالله، جدة
+DESCRIPTION:الجولة 5 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m47@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20260917T181500Z
+DTEND:20260917T201500Z
+SUMMARY:العروبة × الخلود — دوري روشن (ج6)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 6 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m55@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20260924T170000Z
+DTEND:20260924T190000Z
+SUMMARY:التعاون × العروبة — دوري روشن (ج7)
+LOCATION:ملعب مدينة الملك عبدالله الرياضية، بريدة
+DESCRIPTION:الجولة 7 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m63@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261001T150000Z
+DTEND:20261001T170000Z
+SUMMARY:العروبة × الهلال — دوري روشن (ج8)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 8 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m73@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261008T170000Z
+DTEND:20261008T190000Z
+SUMMARY:العروبة × نيوم — دوري روشن (ج9)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 9 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m83@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261015T181500Z
+DTEND:20261015T201500Z
+SUMMARY:الخليج × العروبة — دوري روشن (ج10)
+LOCATION:ملعب الأمير محمد بن فهد، سيهات
+DESCRIPTION:الجولة 10 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m93@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261023T151500Z
+DTEND:20261023T171500Z
+SUMMARY:العروبة × الشباب — دوري روشن (ج11)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 11 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m103@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261030T170000Z
+DTEND:20261030T190000Z
+SUMMARY:النصر × العروبة — دوري روشن (ج12)
+LOCATION:ملعب الأول بارك، الرياض
+DESCRIPTION:الجولة 12 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m113@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261106T181500Z
+DTEND:20261106T201500Z
+SUMMARY:العروبة × الفيصلي — دوري روشن (ج13)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 13 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m123@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261114T150000Z
+DTEND:20261114T170000Z
+SUMMARY:الفتح × العروبة — دوري روشن (ج14)
+LOCATION:ملعب الأمير عبدالله بن جلوي، الأحساء
+DESCRIPTION:الجولة 14 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m133@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261121T170000Z
+DTEND:20261121T190000Z
+SUMMARY:العروبة × القادسية — دوري روشن (ج15)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 15 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m143@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261128T181500Z
+DTEND:20261128T201500Z
+SUMMARY:الرياض × العروبة — دوري روشن (ج16)
+LOCATION:ملعب مدينة الملك فهد الدولي، الرياض
+DESCRIPTION:الجولة 16 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m152@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261205T181500Z
+DTEND:20261205T201500Z
+SUMMARY:أبها × العروبة — دوري روشن (ج17)
+LOCATION:ملعب الأمير سلطان بن عبدالعزيز، أبها
+DESCRIPTION:الجولة 17 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m160@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261212T170000Z
+DTEND:20261212T190000Z
+SUMMARY:العروبة × الفيحاء — دوري روشن (ج18)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 18 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m168@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:الاتفاق × العروبة — دوري روشن (ج19)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 19 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m176@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270213T181500Z
+DTEND:20270213T201500Z
+SUMMARY:العروبة × الاتحاد — دوري روشن (ج20)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 20 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m184@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270220T170000Z
+DTEND:20270220T190000Z
+SUMMARY:الدرعية × العروبة — دوري روشن (ج21)
+LOCATION:ملعب الدرعية، الدرعية
+DESCRIPTION:الجولة 21 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m192@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270227T151500Z
+DTEND:20270227T171500Z
+SUMMARY:العروبة × الأهلي — دوري روشن (ج22)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 22 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m200@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270305T181500Z
+DTEND:20270305T201500Z
+SUMMARY:الخلود × العروبة — دوري روشن (ج23)
+LOCATION:ملعب الخلود، الرس
+DESCRIPTION:الجولة 23 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m208@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270312T170000Z
+DTEND:20270312T190000Z
+SUMMARY:العروبة × التعاون — دوري روشن (ج24)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 24 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m216@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270319T150000Z
+DTEND:20270319T170000Z
+SUMMARY:الهلال × العروبة — دوري روشن (ج25)
+LOCATION:ملعب الأول بارك، الرياض
+DESCRIPTION:الجولة 25 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m226@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270326T170000Z
+DTEND:20270326T190000Z
+SUMMARY:نيوم × العروبة — دوري روشن (ج26)
+LOCATION:ملعب نيوم، نيوم
+DESCRIPTION:الجولة 26 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m236@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270402T181500Z
+DTEND:20270402T201500Z
+SUMMARY:العروبة × الخليج — دوري روشن (ج27)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 27 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m246@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270410T151500Z
+DTEND:20270410T171500Z
+SUMMARY:الشباب × العروبة — دوري روشن (ج28)
+LOCATION:ملعب الشباب، الرياض
+DESCRIPTION:الجولة 28 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m256@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270417T170000Z
+DTEND:20270417T190000Z
+SUMMARY:العروبة × النصر — دوري روشن (ج29)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 29 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m266@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270424T181500Z
+DTEND:20270424T201500Z
+SUMMARY:الفيصلي × العروبة — دوري روشن (ج30)
+LOCATION:ملعب الأمير سلطان بن عبدالعزيز، حرمة
+DESCRIPTION:الجولة 30 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m276@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270502T150000Z
+DTEND:20270502T170000Z
+SUMMARY:العروبة × الفتح — دوري روشن (ج31)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 31 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m286@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270509T170000Z
+DTEND:20270509T190000Z
+SUMMARY:القادسية × العروبة — دوري روشن (ج32)
+LOCATION:ملعب الأمير سعود بن جلوي، الخبر
+DESCRIPTION:الجولة 32 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m296@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270516T181500Z
+DTEND:20270516T201500Z
+SUMMARY:العروبة × الرياض — دوري روشن (ج33)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 33 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m305@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270523T181500Z
+DTEND:20270523T201500Z
+SUMMARY:العروبة × أبها — دوري روشن (ج34)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 34 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+END:VCALENDAR

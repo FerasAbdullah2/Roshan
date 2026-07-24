@@ -1,0 +1,382 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Roshn League Calendar//AR//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:الاتفاق — دوري روشن 2026 / 2027
+X-WR-TIMEZONE:Asia/Riyadh
+BEGIN:VEVENT
+UID:roshn-m5@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20260814T181500Z
+DTEND:20260814T201500Z
+SUMMARY:الاتفاق × التعاون — دوري روشن (ج1)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 1 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m15@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20260822T150000Z
+DTEND:20260822T170000Z
+SUMMARY:العروبة × الاتفاق — دوري روشن (ج2)
+LOCATION:ملعب العروبة، سكاكا
+DESCRIPTION:الجولة 2 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m25@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20260829T170000Z
+DTEND:20260829T190000Z
+SUMMARY:الاتفاق × نيوم — دوري روشن (ج3)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 3 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m35@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20260905T181500Z
+DTEND:20260905T201500Z
+SUMMARY:الخليج × الاتفاق — دوري روشن (ج4)
+LOCATION:ملعب الأمير محمد بن فهد، سيهات
+DESCRIPTION:الجولة 4 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m44@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20260912T181500Z
+DTEND:20260912T201500Z
+SUMMARY:الشباب × الاتفاق — دوري روشن (ج5)
+LOCATION:ملعب الشباب، الرياض
+DESCRIPTION:الجولة 5 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m52@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20260919T170000Z
+DTEND:20260919T190000Z
+SUMMARY:الاتفاق × النصر — دوري روشن (ج6)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 6 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m60@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20260926T150000Z
+DTEND:20260926T170000Z
+SUMMARY:الفيصلي × الاتفاق — دوري روشن (ج7)
+LOCATION:ملعب الأمير سلطان بن عبدالعزيز، حرمة
+DESCRIPTION:الجولة 7 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m68@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261002T181500Z
+DTEND:20261002T201500Z
+SUMMARY:الاتفاق × الفتح — دوري روشن (ج8)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 8 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m76@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261009T170000Z
+DTEND:20261009T190000Z
+SUMMARY:القادسية × الاتفاق — دوري روشن (ج9)
+LOCATION:ملعب الأمير سعود بن جلوي، الخبر
+DESCRIPTION:الجولة 9 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m84@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261016T151500Z
+DTEND:20261016T171500Z
+SUMMARY:الاتفاق × الرياض — دوري روشن (ج10)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 10 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m92@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261022T181500Z
+DTEND:20261022T201500Z
+SUMMARY:أبها × الاتفاق — دوري روشن (ج11)
+LOCATION:ملعب الأمير سلطان بن عبدالعزيز، أبها
+DESCRIPTION:الجولة 11 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m100@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261029T170000Z
+DTEND:20261029T190000Z
+SUMMARY:الاتفاق × الفيحاء — دوري روشن (ج12)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 12 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m108@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261105T150000Z
+DTEND:20261105T170000Z
+SUMMARY:الهلال × الاتفاق — دوري روشن (ج13)
+LOCATION:ملعب الأول بارك، الرياض
+DESCRIPTION:الجولة 13 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m118@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261112T170000Z
+DTEND:20261112T190000Z
+SUMMARY:الاتحاد × الاتفاق — دوري روشن (ج14)
+LOCATION:ملعب مدينة الملك عبدالله، جدة
+DESCRIPTION:الجولة 14 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m128@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261119T181500Z
+DTEND:20261119T201500Z
+SUMMARY:الاتفاق × الدرعية — دوري روشن (ج15)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 15 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m138@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261127T151500Z
+DTEND:20261127T171500Z
+SUMMARY:الأهلي × الاتفاق — دوري روشن (ج16)
+LOCATION:ملعب مدينة الملك عبدالله، جدة
+DESCRIPTION:الجولة 16 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m148@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261204T170000Z
+DTEND:20261204T190000Z
+SUMMARY:الاتفاق × الخلود — دوري روشن (ج17)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 17 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m158@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261211T181500Z
+DTEND:20261211T201500Z
+SUMMARY:التعاون × الاتفاق — دوري روشن (ج18)
+LOCATION:ملعب مدينة الملك عبدالله الرياضية، بريدة
+DESCRIPTION:الجولة 18 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m168@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:الاتفاق × العروبة — دوري روشن (ج19)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 19 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m178@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270214T170000Z
+DTEND:20270214T190000Z
+SUMMARY:نيوم × الاتفاق — دوري روشن (ج20)
+LOCATION:ملعب نيوم، نيوم
+DESCRIPTION:الجولة 20 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m188@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270221T181500Z
+DTEND:20270221T201500Z
+SUMMARY:الاتفاق × الخليج — دوري روشن (ج21)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 21 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m197@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270228T181500Z
+DTEND:20270228T201500Z
+SUMMARY:الاتفاق × الشباب — دوري روشن (ج22)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 22 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m205@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270307T170000Z
+DTEND:20270307T190000Z
+SUMMARY:النصر × الاتفاق — دوري روشن (ج23)
+LOCATION:ملعب الأول بارك، الرياض
+DESCRIPTION:الجولة 23 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m213@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270314T150000Z
+DTEND:20270314T170000Z
+SUMMARY:الاتفاق × الفيصلي — دوري روشن (ج24)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 24 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m221@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270320T181500Z
+DTEND:20270320T201500Z
+SUMMARY:الفتح × الاتفاق — دوري روشن (ج25)
+LOCATION:ملعب الأمير عبدالله بن جلوي، الأحساء
+DESCRIPTION:الجولة 25 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m229@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270327T170000Z
+DTEND:20270327T190000Z
+SUMMARY:الاتفاق × القادسية — دوري روشن (ج26)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 26 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m237@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270403T151500Z
+DTEND:20270403T171500Z
+SUMMARY:الرياض × الاتفاق — دوري روشن (ج27)
+LOCATION:ملعب مدينة الملك فهد الدولي، الرياض
+DESCRIPTION:الجولة 27 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m245@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270409T181500Z
+DTEND:20270409T201500Z
+SUMMARY:الاتفاق × أبها — دوري روشن (ج28)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 28 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m253@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270416T170000Z
+DTEND:20270416T190000Z
+SUMMARY:الفيحاء × الاتفاق — دوري روشن (ج29)
+LOCATION:ملعب الأمير سلطان بن عبدالعزيز، المجمعة
+DESCRIPTION:الجولة 29 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m261@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270423T150000Z
+DTEND:20270423T170000Z
+SUMMARY:الاتفاق × الهلال — دوري روشن (ج30)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 30 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m271@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270430T170000Z
+DTEND:20270430T190000Z
+SUMMARY:الاتفاق × الاتحاد — دوري روشن (ج31)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 31 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m281@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270507T181500Z
+DTEND:20270507T201500Z
+SUMMARY:الدرعية × الاتفاق — دوري روشن (ج32)
+LOCATION:ملعب الدرعية، الدرعية
+DESCRIPTION:الجولة 32 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m291@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270515T151500Z
+DTEND:20270515T171500Z
+SUMMARY:الاتفاق × الأهلي — دوري روشن (ج33)
+LOCATION:ملعب الأمير محمد بن فهد، الدمام
+DESCRIPTION:الجولة 33 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+BEGIN:VEVENT
+UID:roshn-m301@roshn-calendar
+SEQUENCE:1
+DTSTAMP:20260724T000000Z
+LAST-MODIFIED:20260724T000000Z
+DTSTART:20270522T170000Z
+DTEND:20270522T190000Z
+SUMMARY:الخلود × الاتفاق — دوري روشن (ج34)
+LOCATION:ملعب الخلود، الرس
+DESCRIPTION:الجولة 34 من دوري روشن السعودي 2026 / 2027 (موعد مبدئي — راجع الجدول الرسمي)
+END:VEVENT
+END:VCALENDAR

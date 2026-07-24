@@ -3,88 +3,78 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>تقويم دوري روشن 2026/2027</title>
-  <meta name="description" content="تقويم دوري روشن السعودي — اختر فرقك وأضف مبارياتها إلى تقويمك بموعدها ووقتها." />
+  <title>تقويم دوري روشن 2026/2027 · Roshn League Calendar</title>
+  <meta name="description" content="تقويم دوري روشن السعودي — اختر فرقك وأضف مبارياتها إلى تقويمك · Roshn Saudi League calendar." />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <div class="wrap">
     <header class="hero">
-      <span class="kicker">⚽ تقويم الدوري</span>
+      <div class="hero-top">
+        <span class="kicker" id="kicker">⚽ تقويم الدوري</span>
+        <button class="lang-btn" id="langBtn" type="button">English</button>
+      </div>
       <h1 id="seasonTitle">دوري روشن السعودي 2026 / 2027</h1>
-      <p id="seasonMeta">جاري التحميل…</p>
+      <p id="seasonMeta">…</p>
     </header>
 
-    <div class="notice">
-      <b>ملاحظة:</b> مواجهات <b>الجولة الأولى</b> مؤكدة رسمياً. باقي المواعيد والمواجهات
-      <b>مبدئية/تجريبية</b> ومولّدة تلقائياً لغرض العرض — تُستبدل بالجدول الرسمي فور صدوره
-      (عدّل ملف <code>data.js</code>). المباريات المؤكدة عليها وسم «موعد مؤكد».
-    </div>
+    <div class="notice" id="notice"></div>
 
     <div id="nextMatch"></div>
 
     <div class="stats">
-      <div class="stat"><div class="n" id="selCount">0</div><div class="l">فرقك المختارة</div></div>
-      <div class="stat"><div class="n" id="matchCount">0</div><div class="l">مباريات معروضة</div></div>
-      <div class="stat"><div class="n">18</div><div class="l">فريق في الدوري</div></div>
+      <div class="stat"><div class="n" id="selCount">0</div><div class="l" id="stat_teams_l"></div></div>
+      <div class="stat"><div class="n" id="matchCount">0</div><div class="l" id="stat_shown_l"></div></div>
+      <div class="stat"><div class="n">18</div><div class="l" id="stat_total_l"></div></div>
     </div>
 
     <section class="section">
       <div class="section-head">
         <div>
-          <h2>١) اختر فرقك</h2>
-          <div class="sub">اضغط على الفرق التي تتابعها — يُحفظ اختيارك تلقائياً على جهازك.</div>
+          <h2 id="pick_h"></h2>
+          <div class="sub" id="pick_sub"></div>
         </div>
         <div class="toolbar">
-          <button class="link-btn" id="selectAll">تحديد الكل</button>
-          <button class="link-btn" id="clearAll">مسح الكل</button>
+          <button class="link-btn" id="selectAll"></button>
+          <button class="link-btn" id="clearAll"></button>
         </div>
       </div>
       <div class="team-grid" id="teamGrid"></div>
     </section>
 
     <div class="actionbar">
-      <div class="info">
-        فرقك: <b id="a-sel">—</b> · اعرض <button class="link-btn" id="onlyToggle" aria-pressed="false">مباريات فرقي فقط</button>
-      </div>
+      <div class="info"><span id="your_teams_l"></span>: <b id="your_teams_v">—</b> ·
+        <button class="link-btn" id="onlyToggle" aria-pressed="false"></button></div>
       <span class="grow"></span>
-      <button class="bulk" id="bulkBtn" disabled>اختر فرقك أولاً</button>
+      <button class="bulk" id="bulkBtn" disabled></button>
     </div>
 
     <section class="section">
       <div class="section-head">
-        <div>
-          <h2>٢) المباريات</h2>
-          <div class="sub">لكل مباراة: أضفها إلى Google تقويم أو نزّل ملف <code>.ics</code> (يعمل مع تقويم آبل وأوت لوك).</div>
-        </div>
+        <div><h2 id="matches_h"></h2><div class="sub" id="matches_sub"></div></div>
       </div>
       <div id="matches"></div>
     </section>
 
     <section class="section">
       <div class="section-head">
-        <div>
-          <h2>٣) اشتراك تلقائي</h2>
-          <div class="sub">اشترك برابط يتحدّث تلقائياً في تطبيق تقويمك، أو نزّل كل مباريات الموسم دفعة واحدة.</div>
-        </div>
+        <div><h2 id="sub_h"></h2><div class="sub" id="sub_sub"></div></div>
       </div>
       <div class="sub-box">
         <div class="sub-actions">
-          <button class="link-btn on" id="subBtn">📅 اشترك (تحديث تلقائي)</button>
-          <button class="link-btn" id="subCopy">📋 انسخ رابط الاشتراك</button>
-          <button class="link-btn" id="subAll">⬇️ نزّل كل مباريات الموسم</button>
+          <button class="link-btn on" id="subAll"></button>
+          <button class="link-btn" id="subCopy"></button>
+          <button class="link-btn" id="subDl"></button>
         </div>
-        <p class="sub-note">
-          «الاشتراك التلقائي» يتطلب نشر الموقع مع ملف <code>roshn-2026-2027.ics</code> بجانبه —
-          حينها يتحدّث تقويمك تلقائياً كلما حُدِّث الجدول. أما «نزّل» فيعطيك ملفاً فورياً
-          (استيراد لمرة واحدة). لاشتراك فرقك فقط، استخدم زر «نزّل مباريات فرقي» بالأعلى.
-        </p>
+        <div class="sub-teams-h" id="sub_teams_h"></div>
+        <div class="sub-teams" id="subTeams"></div>
+        <p class="sub-note" id="sub_note"></p>
       </div>
     </section>
 
     <footer>
-      <p>الأوقات بتوقيت السعودية (UTC+3). زر «نزّل مباريات فرقي» يعطيك ملف <code>.ics</code> واحد يحتوي كل مباريات فرقك — استورده مرة واحدة في أي تطبيق تقويم.</p>
-      <p>تقويم غير رسمي لأغراض المتابعة الشخصية · البيانات المبدئية قابلة للتعديل في <code>data.js</code></p>
+      <p id="foot1"></p>
+      <p id="foot2"></p>
     </footer>
   </div>
 
